@@ -27,7 +27,7 @@
 
 .progress-bar {
   position: absolute;
-  left: .25rem;
+  left: 0.25rem;
   bottom: 0;
   width: 25px;
   height: 0%;
